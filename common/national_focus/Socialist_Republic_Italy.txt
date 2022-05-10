@@ -1,0 +1,28 @@
+focus_tree = {
+	id = KR_Socialist_Republic_Italy
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SRI
+		}
+	}
+	default = no
+	#focus = {
+		#id = 
+		#icon = GFX_
+		#cost = 3.00
+		#x = 0
+		#y = 0
+		#available = {
+			
+		#}
+		#ai_will_do = {
+			#factor = 100
+		#}
+		#completion_reward = {
+			
+		#}
+	#}																																								
+}
+	
